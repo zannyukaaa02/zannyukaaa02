@@ -44,9 +44,9 @@ Dasai Mochi adalah proyek perangkat interaktif berbasis ESP32 yang dilengkapi fi
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=zannnyukaaa02&show_icons=true&count_private=true&theme=null" alt="GitHub Statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=zannyukaaa02&show_icons=true&count_private=true&theme=null" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zannnyukaaa02&layout=compact&theme=null" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zannyukaaa02&layout=compact&theme=null" alt="Most used languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zannnyukaaa02&theme=null" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zannyukaaa02&theme=null" alt="GitHub Streak" />
 
