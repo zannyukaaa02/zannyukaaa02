@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/zannyukaaa02/zannyukaaa02/blob/196323528f72faa7d447119408fafe4aca4d0443/file_00000000a8c48207979240c2f32d3250.png)
 
 # Hello 👋, I'm Farzan Rafa Naufaldi
 ### Full Stack Developer, IoT Enthusiast
