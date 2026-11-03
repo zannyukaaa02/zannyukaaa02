@@ -1,14 +1,52 @@
-<h1 align="center">Hi 👋, I'm Farzan Rafa Naufaldi</h1>
-<h3 align="center">Halo! Saya Farzan Rafa Naufaldi, seorang Web Developer yang memiliki ketertarikan besar dalam dunia teknologi dan pengembangan website. Saya menguasai berbagai bahasa pemrograman dan teknologi, di antaranya HTML, CSS, JavaScript, PHP, C++, Python, serta MySQL untuk pengelolaan database. Saya juga memiliki kemampuan menggunakan Git untuk mengelola versi kode dan mendukung proses pengembangan proyek. Saya senang mempelajari hal-hal baru, mengembangkan ide kreatif, serta menciptakan website yang menarik, responsif, dan fungsional. Bagi saya, dunia programming bukan hanya tentang menulis kode, tetapi juga tentang membangun solusi dan terus mengembangkan kemampuan diri. Di luar dunia teknologi, saya memiliki hobi bermain basket, berlari, dan bersepeda. Aktivitas tersebut membantu saya menjaga kesehatan, melatih kedisiplinan, serta membangun semangat untuk terus berkembang. Keep Learning, Keep Creating, and Keep Growing!</h3>
+# Hello 👋, I'm Farzan Rafa Naufaldi
+### Full Stack Developer, IoT Enthusiast
 
-- 📄 Know about my experiences [github.com/zannyukaaa02](github.com/zannyukaaa02)
+Halo! Saya Farzan Rafa Naufaldi, seorang Web Developer yang memiliki ketertarikan besar dalam dunia teknologi dan pengembangan website. Saya menguasai berbagai bahasa pemrograman dan teknologi, di antaranya HTML, CSS, JavaScript, PHP, C++, Python, serta MySQL untuk pengelolaan database. Saya juga memiliki kemampuan menggunakan Git untuk mengelola versi kode dan mendukung proses pengembangan proyek.
 
-<h3 align="left">Connect with me:</h3>
+## Contact Me
+<p><a href="https://farzanrafanaufaldi.vercel.app" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV"></a> <a href="https://www.instagram.com/zannyukaaa02?mdtx=dnp2MTN3ZzQ3bzZp" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+
+## Skills
+
 <p align="left">
-<a href="https://linkedin.com/in/farzan rafa naufaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farzan rafa naufaldi" height="30" width="40" /></a>
-<a href="https://instagram.com/zannyukaaa02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zannyukaaa02" height="30" width="40" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Projects
+
+### Website Kelas
+
+Website resmi Kelas 10A SMK Informatika Utama. Isinya struktur kelas lengkap dari wali kelas sampai tiap seksi, galeri, prestasi, project, jadwal piket, dan profil pengembang website.
+
+---
+
+### Aplikasi Kasir
+
+Aplikasi kasir berbasis web untuk mencatat penjualan dengan cepat. Pengguna memilih produk (Es Choco Ngawi dan Cilok Kuah), mengisi harga dan jumlah, lalu melihat ringkasan pembayaran, total penjualan, uang diterima, dan kembalian dalam satu layar.
+
+---
+
+### Dasai Mochi: Smart Device Berbasis ESP32
+
+Dasai Mochi adalah proyek perangkat interaktif berbasis ESP32 yang dilengkapi fitur jam digital, pembelajaran kode Morse, dan stopwatch menggunakan layar OLED. Proyek ini dikembangkan untuk menerapkan keterampilan pemrograman, elektronika, dan Internet of Things (IoT).
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=zannnyukaaa02&show_icons=true&count_private=true&theme=null" alt="GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zannnyukaaa02&layout=compact&theme=null" alt="Most used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zannnyukaaa02&theme=null" alt="GitHub Streak" />
 
